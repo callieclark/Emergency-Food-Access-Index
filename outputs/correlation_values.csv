@@ -1,0 +1,7 @@
+,tt_euclidean,tt_walk,tt_bike,tt_transit,tt_drive,tt_drive_no_model
+tt_euclidean,1.0,0.99,0.98,0.88,0.86,0.95
+tt_walk,0.99,1.0,0.98,0.88,0.85,0.95
+tt_bike,0.98,0.98,1.0,0.9,0.86,0.96
+tt_transit,0.88,0.88,0.9,1.0,0.84,0.9
+tt_drive,0.86,0.85,0.86,0.84,1.0,0.94
+tt_drive_no_model,0.95,0.95,0.96,0.9,0.94,1.0

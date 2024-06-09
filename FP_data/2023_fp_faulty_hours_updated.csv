@@ -1,0 +1,427 @@
+,id,Name,Address,Hours FINAL,Hours FPC,Hours Plentiful,lat,lng,Additional Notes,BoroName,geometry,Mo_open,Mo_close,notes,Tu_open,Tu_close,We_open,We_close,Th_open,Th_close,Fr_open,Fr_close,Sa_open,Sa_close,Su_open,Su_close
+424,01776d97-82e2-4625-b14d-9014e4fc1782,Vision Urbana,64 Essex St,"2023-07-17 09:00AM-11:00AM
+2023-07-24 09:00AM-11:00AM
+2023-07-31 09:00AM-11:00AM
+2023-08-07 09:00AM-11:00AM
+2023-08-14 09:00AM-11:00AM
+2023-08-21 09:00AM-11:00AM
+2023-08-28 09:00AM-11:00AM
+2023-09-04 09:00AM-11:00AM
+2023-09-11 09:00AM-11:00AM
+2023-09-18 09:00AM-11:00AM
+2023-09-25 09:00AM-11:00AM
+2023-10-02 09:00AM-11:00AM
+2023-10-09 09:00AM-11:00AM","Mo,Tu 09:00AM-12:00PM
+","2023-07-17 09:00AM-11:00AM
+2023-07-24 09:00AM-11:00AM
+2023-07-31 09:00AM-11:00AM
+2023-08-07 09:00AM-11:00AM
+2023-08-14 09:00AM-11:00AM
+2023-08-21 09:00AM-11:00AM
+2023-08-28 09:00AM-11:00AM
+2023-09-04 09:00AM-11:00AM
+2023-09-11 09:00AM-11:00AM
+2023-09-18 09:00AM-11:00AM
+2023-09-25 09:00AM-11:00AM
+2023-10-02 09:00AM-11:00AM
+2023-10-09 09:00AM-11:00AM",40.7173399,-73.9884238,"- Monday open to the public
+- Mostly door-to-door service and need to register to receive food",Manhattan,POINT (-73.9884238 40.7173399),,,,,,,,,,,,,,,
+69,668e409f-e764-4514-8b2b-7f6745a1af53,"Momentum Project, St. Peter's Church",619 Lexington Ave,"mo,tu,we,th,fr,sa,su 08:30 AM-08:00 PM","mo,tu,we,th,fr,sa,su 08:30AM-08:00PM",,40.7585654,-73.9703834,- Temporarily closed until further notice due to a water main break,Manhattan,POINT (-73.9703834 40.7585654),,,,,,,,,,,,,,,
+45,34a5da0a-e591-4dcd-93d6-4570d7da0343,Greater Bethel Community Development,95-26 Sutphin Blvd,Start from March 1st,Start from March 1st,,40.6978055,-73.80637732,"- The food pantry operates in the parking lot in the back of the building (95-15 Waltham St)
+- One-time proof of identification and address to sign-up for food pantry services
+- By January new information about food pantry ",Queens,POINT (-73.80637732 40.6978055),,,,,,,,,,,,,,,
+107,c76a4106-1cd9-483c-abdc-1efb91f58d99,Blessed Sacrament Church - Soup Kitchen,152 W 71st St,Su 02:00PM,Su 02:00PM-03:00PM,,40.7774103,-73.9812423,- Soup kitchen ends when the line ends.,Manhattan,POINT (-73.9812423 40.7774103),,,,,,,,,,,,,,,
+1141,01a9e3ab-f68b-463d-a9d8-8f731a842386,Church of God in Christ on the Hill - Soup Kitchen,137 Buffalo Ave,Fr 12:30PM,Fr 12:30PM-01:30PM,,40.6745463,-73.9246385,,Brooklyn,POINT (-73.9246385 40.6745463),,,,,,,,,,,,,,,
+239,6c9f0d27-9460-4ac7-b984-f6552bd4f58f,St. Ignatius Episcopal Church,552 West End Ave,"Sa 04:00PM
+Mo 07:00PM","Sa 04:00PM-5:00PM
+Mo 07:00PM-8:00PM",,40.7892501,-73.97708,"- Please arrive 15 minutes early
+- Serving to-go meals while supplies last",Manhattan,POINT (-73.97708 40.7892501),,,,,,,,,,,,,,,
+323,61662bb7-dfa4-454a-ac6c-ba38eea72ea8,Missionaries of Charity - Harlem,406 W 127th St,"Su-We,Fr,Sa 09:30AM","Su-We,Fr,Sa 09:30AM-10:30AM",,40.8128,-73.95363,- Open to everyone,Manhattan,POINT (-73.95363 40.8128),,,,,,,,,,,,,,,
+461,fd14be9b-afba-4bde-a11e-5aae055ee5d0,Community Impact - Soup Kitchen,601 W 114 St,"2023-07-17 11:00AM-02:00PM
+2023-07-19 11:00AM-02:00PM
+2023-07-20 11:00AM-02:00PM
+2023-07-24 11:00AM-02:00PM
+2023-07-26 11:00AM-02:00PM
+2023-07-27 11:00AM-02:00PM
+2023-07-31 11:00AM-02:00PM
+2023-08-02 11:00AM-02:00PM
+2023-08-03 11:00AM-02:00PM
+2023-08-07 11:00AM-02:00PM
+2023-08-09 11:00AM-02:00PM
+2023-08-10 11:00AM-02:00PM
+2023-08-14 11:00AM-02:00PM
+2023-08-16 11:00AM-02:00PM
+2023-08-17 11:00AM-02:00PM
+2023-08-21 11:00AM-02:00PM
+2023-08-23 11:00AM-02:00PM
+2023-08-24 11:00AM-02:00PM
+2023-08-28 11:00AM-02:00PM
+2023-08-30 11:00AM-02:00PM
+2023-08-31 11:00AM-02:00PM
+2023-09-04 11:00AM-02:00PM
+2023-09-06 11:00AM-02:00PM
+2023-09-07 11:00AM-02:00PM
+2023-09-11 11:00AM-02:00PM
+2023-09-13 11:00AM-02:00PM
+2023-09-14 11:00AM-02:00PM
+2023-09-18 11:00AM-02:00PM
+2023-09-20 11:00AM-02:00PM
+2023-09-21 11:00AM-02:00PM
+2023-09-25 11:00AM-02:00PM
+2023-09-27 11:00AM-02:00PM
+2023-09-28 11:00AM-02:00PM
+2023-10-02 11:00AM-02:00PM
+2023-10-04 11:00AM-02:00PM
+2023-10-05 11:00AM-02:00PM
+2023-10-09 11:00AM-02:00PM","Mo,We,Fr 10:00AM-11:00AM
+","2023-07-17 11:00AM-02:00PM
+2023-07-19 11:00AM-02:00PM
+2023-07-20 11:00AM-02:00PM
+2023-07-24 11:00AM-02:00PM
+2023-07-26 11:00AM-02:00PM
+2023-07-27 11:00AM-02:00PM
+2023-07-31 11:00AM-02:00PM
+2023-08-02 11:00AM-02:00PM
+2023-08-03 11:00AM-02:00PM
+2023-08-07 11:00AM-02:00PM
+2023-08-09 11:00AM-02:00PM
+2023-08-10 11:00AM-02:00PM
+2023-08-14 11:00AM-02:00PM
+2023-08-16 11:00AM-02:00PM
+2023-08-17 11:00AM-02:00PM
+2023-08-21 11:00AM-02:00PM
+2023-08-23 11:00AM-02:00PM
+2023-08-24 11:00AM-02:00PM
+2023-08-28 11:00AM-02:00PM
+2023-08-30 11:00AM-02:00PM
+2023-08-31 11:00AM-02:00PM
+2023-09-04 11:00AM-02:00PM
+2023-09-06 11:00AM-02:00PM
+2023-09-07 11:00AM-02:00PM
+2023-09-11 11:00AM-02:00PM
+2023-09-13 11:00AM-02:00PM
+2023-09-14 11:00AM-02:00PM
+2023-09-18 11:00AM-02:00PM
+2023-09-20 11:00AM-02:00PM
+2023-09-21 11:00AM-02:00PM
+2023-09-25 11:00AM-02:00PM
+2023-09-27 11:00AM-02:00PM
+2023-09-28 11:00AM-02:00PM
+2023-10-02 11:00AM-02:00PM
+2023-10-04 11:00AM-02:00PM
+2023-10-05 11:00AM-02:00PM
+2023-10-09 11:00AM-02:00PM",40.807135,-73.965897,"- Located in the basement
+- Dine in or grab & go options available
+- Serving until food runs out",Manhattan,POINT (-73.965897 40.807135),,,,,,,,,,,,,,,
+253,f7f5cfaf-698d-4f42-b589-7e391706651e,Richmond Hill SDA Community Service,114-08 Jamaica Ave,Saturdays 09:15AM- 01:00AM,Sa 09:15AM-01:00PM,,40.6983442,-73.8345059,- Pantry times vary. Call to confirm the next available time for food distribution.,Queens,POINT (-73.8345059 40.6983442),,,,,,,,,,,,,,,
+534,d9dfbd3f-1e08-4917-9993-075c1e15df18,"Cienfuegos, Bronx",482 E 138th St,Tu 01:00PM,Tu 01:00PM-02:00PM,,40.7666578,-73.9300891,"- Home delivery available for COVID-19 patients
+- Kosher and halal food sometimes available by request",Queens,POINT (-73.9300891 40.7666578),,,,,,,,,,,,,,,
+554,bc18319b-ed09-4f0f-ad86-8ffca5bf8fa3,Haitian Centers Council - Louverture Residence,3931 Kings Highway,Sa 07:00AM,Sa 07:00AM-08:00AM,,40.62373,-73.93611,"- Grab and go meals available
+- At Flatbush Reformed Church Community Center
+- Every other Saturday",Brooklyn,POINT (-73.93611 40.62373),,,,,,,,,,,,,,,
+564,784778f2-8dbc-461c-9127-01415a4ab100,Church of St. Paul the Apostle - Soup Kitchen,405 W 59th St,Sa 08:30AM,Sa 08:30AM-09:30AM,,40.7699659,-73.9870774,- Formal ID and any other identification required,Manhattan,POINT (-73.9870774 40.7699659),,,,,,,,,,,,,,,
+297,7b25e1a5-72cc-4b01-b095-f8f32a121f80,Love Wins Food Pantry,78-13 Roosevelt Ave,"Fr 12:00PM
+""Biweekly starting from Feb 10th""","Fr 12:00PM-01:00PM
+""Biweekly starting from Feb 10th""",,40.74761253,-73.88708433,"- Open to everyone, LGBTQ friendly",Queens,POINT (-73.88708433 40.74761253),,,"""Biweekly starting from Feb 10th""",,,,,,,,,,,,
+305,f382395a-f3a8-4d2c-a7a4-db3f1dfd99ca,Our Lady of Fatima Church,25-02 80th St,Sa 11:00AM-01:00 PM,Sa 11:00AM-01:00PM,,40.7622976,-73.8888852,"- Open to everyone
+- Must register on your first visit. Following that, you'll be informed which day the food pantry is open.",Queens,POINT (-73.8888852 40.7622976),,,,,,,,,,,,,,,
+358,bb1a1536-fd5a-43b7-9a01-d5d846bdaaa6,Bay Ridge Community Development Center,9818 Fort Hamilton Pkwy,Sa 11:00AM,Sa 11:00AM-12:00PM,,40.63471575,-74.0210047,"- Open 1st and 3rd Saturdays of the month
+- Open to everyone from 11:00 AM until food runs out
+- at the moment no id required
+- pantry is rebuilding ",Brooklyn,POINT (-74.0210047 40.63471575),,,,,,,,,,,,,,,
+934,88749726-3e00-4a0b-ae8b-e2707e163520,Tabernacle of Prayer for All People/Food Program - Food Pantry,90-07 Merrick Blvd,"2023-07-14 10:00AM-11:30AM
+2023-07-18 11:30AM-12:30PM
+2023-07-21 10:00AM-11:30AM
+2023-07-25 11:30AM-12:30PM
+2023-07-28 10:00AM-11:30AM
+2023-08-01 11:30AM-12:30PM
+2023-08-04 10:00AM-11:30AM
+2023-08-08 11:30AM-12:30PM
+2023-08-11 10:00AM-11:30AM
+2023-08-15 11:30AM-12:30PM
+2023-08-18 10:00AM-11:30AM
+2023-08-22 11:30AM-12:30PM
+2023-08-25 10:00AM-11:30AM
+2023-08-29 11:30AM-12:30PM
+2023-09-01 10:00AM-11:30AM
+2023-09-05 11:30AM-12:30PM
+2023-09-08 10:00AM-11:30AM
+2023-09-12 11:30AM-12:30PM
+2023-09-15 10:00AM-11:30AM
+2023-09-19 11:30AM-12:30PM
+2023-09-22 10:00AM-11:30AM
+2023-09-26 11:30AM-12:30PM
+2023-09-29 10:00AM-11:30AM
+2023-10-03 11:30AM-12:30PM
+2023-10-06 10:00AM-11:30AM
+2023-10-10 11:30AM-12:30PM",Fr 10:00AM-12:00PM,"2023-07-14 10:00AM-11:30AM
+2023-07-18 11:30AM-12:30PM
+2023-07-21 10:00AM-11:30AM
+2023-07-25 11:30AM-12:30PM
+2023-07-28 10:00AM-11:30AM
+2023-08-01 11:30AM-12:30PM
+2023-08-04 10:00AM-11:30AM
+2023-08-08 11:30AM-12:30PM
+2023-08-11 10:00AM-11:30AM
+2023-08-15 11:30AM-12:30PM
+2023-08-18 10:00AM-11:30AM
+2023-08-22 11:30AM-12:30PM
+2023-08-25 10:00AM-11:30AM
+2023-08-29 11:30AM-12:30PM
+2023-09-01 10:00AM-11:30AM
+2023-09-05 11:30AM-12:30PM
+2023-09-08 10:00AM-11:30AM
+2023-09-12 11:30AM-12:30PM
+2023-09-15 10:00AM-11:30AM
+2023-09-19 11:30AM-12:30PM
+2023-09-22 10:00AM-11:30AM
+2023-09-26 11:30AM-12:30PM
+2023-09-29 10:00AM-11:30AM
+2023-10-03 11:30AM-12:30PM
+2023-10-06 10:00AM-11:30AM
+2023-10-10 11:30AM-12:30PM",40.7069306,-73.794392,,Queens,POINT (-73.794392 40.7069306),,,,,,,,,,,,,,,
+405,042a2d51-bc1b-4da9-939a-e368d1710295,"Davidson Community Center, Inc.",2038 Davidson Ave,We 05:00PM,We 05:00PM-06:00PM,,40.8535636,-73.9084715,"- need to register (Monday, Thursday, Friday from 9am-12pm)
+- once a month
+- Until they run out of food",Bronx,POINT (-73.9084715 40.8535636),,,,,,,,,,,,,,,
+410,d4867935-bf69-49ba-8281-216955d0dc30,Jewish Community Council (JCC) of Kings Bay,3495 Nostrand Ave,"09:00AM-11:00PM ""Once a Month, Usually on Friday""","Fr 09:00AM-11:00PM ""Once a Month, Usually on Friday""",,40.5989736,-73.9412729,"- Must register beforehand
+- Registration currently closed",Brooklyn,POINT (-73.9412729 40.5989736),,,"""Once a Month, Usually on Friday""",,,,,,,,,,,,
+800,048ff094-aeeb-41b0-b4f3-f74112f8f75a,"Mercy College, Mav Market Manhattan",47 W 34th St,"mo,tu,we,th,fr 09:00AM–08:00PM","mo,tu,we,th,fr 09:00AM-08:00PM",,40.7497577,-73.987189,"-   Open to Mercy students, faculty, and staff only",Manhattan,POINT (-73.987189 40.7497577),,,,,,,,,,,,,,,
+1124,a0ff04b2-e04c-4c4c-8701-86802102302e,"ICNA Relief, Bronx Pantry",1277-D Burke Ave,"mo,tu,we,th,fr,sa,su 10:00AM","mo,tu,we,th,fr,sa,su 10:00AM-11:00AM",,40.8548829,-73.8660198,"- Often changes locations, so it's important to call and check.
+- They also provide clothing and works with refugee families. ",Bronx,POINT (-73.8660198 40.8548829),,,,,,,,,,,,,,,
+475,a0e4a647-326b-4381-b56e-bd37e9494741,Children of the Light Ministry,1171 E 95th St,"2023-07-14 09:00AM-04:00PM ""[plentiful appointment]""
+2023-07-15 10:00AM-02:00PM ""[plentiful appointment]""
+2023-07-17 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-17 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-19 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-19 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-21 09:00AM-04:00PM ""[plentiful appointment]""
+2023-07-22 10:00AM-02:00PM ""[plentiful appointment]""
+2023-07-24 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-24 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-26 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-26 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-28 09:00AM-04:00PM ""[plentiful appointment]""
+2023-07-29 10:00AM-02:00PM ""[plentiful appointment]""
+2023-07-31 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-31 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-02 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-02 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-04 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-05 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-07 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-07 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-09 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-09 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-11 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-12 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-14 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-14 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-16 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-16 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-18 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-19 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-21 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-21 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-23 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-23 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-25 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-26 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-28 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-28 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-30 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-30 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-01 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-02 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-04 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-04 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-06 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-06 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-08 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-09 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-11 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-11 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-13 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-13 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-15 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-16 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-18 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-18 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-20 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-20 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-22 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-23 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-25 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-25 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-27 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-27 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-29 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-30 10:00AM-02:00PM ""[plentiful appointment]""
+2023-10-02 10:00AM-01:00PM ""[plentiful appointment]""
+2023-10-02 02:00PM-04:00PM ""[plentiful appointment]""
+2023-10-04 10:00AM-01:00PM ""[plentiful appointment]""
+2023-10-04 02:00PM-04:00PM ""[plentiful appointment]""
+2023-10-06 09:00AM-04:00PM ""[plentiful appointment]""
+2023-10-07 10:00AM-02:00PM ""[plentiful appointment]""
+2023-10-09 10:00AM-01:00PM ""[plentiful appointment]""
+2023-10-09 02:00PM-04:00PM ""[plentiful appointment]""","Mo,We,Fr,Sa 10:00AM-04:00PM","2023-07-14 09:00AM-04:00PM ""[plentiful appointment]""
+2023-07-15 10:00AM-02:00PM ""[plentiful appointment]""
+2023-07-17 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-17 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-19 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-19 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-21 09:00AM-04:00PM ""[plentiful appointment]""
+2023-07-22 10:00AM-02:00PM ""[plentiful appointment]""
+2023-07-24 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-24 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-26 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-26 02:00PM-04:00PM ""[plentiful appointment]""
+2023-07-28 09:00AM-04:00PM ""[plentiful appointment]""
+2023-07-29 10:00AM-02:00PM ""[plentiful appointment]""
+2023-07-31 10:00AM-01:00PM ""[plentiful appointment]""
+2023-07-31 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-02 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-02 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-04 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-05 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-07 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-07 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-09 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-09 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-11 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-12 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-14 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-14 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-16 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-16 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-18 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-19 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-21 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-21 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-23 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-23 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-25 09:00AM-04:00PM ""[plentiful appointment]""
+2023-08-26 10:00AM-02:00PM ""[plentiful appointment]""
+2023-08-28 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-28 02:00PM-04:00PM ""[plentiful appointment]""
+2023-08-30 10:00AM-01:00PM ""[plentiful appointment]""
+2023-08-30 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-01 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-02 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-04 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-04 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-06 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-06 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-08 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-09 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-11 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-11 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-13 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-13 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-15 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-16 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-18 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-18 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-20 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-20 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-22 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-23 10:00AM-02:00PM ""[plentiful appointment]""
+2023-09-25 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-25 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-27 10:00AM-01:00PM ""[plentiful appointment]""
+2023-09-27 02:00PM-04:00PM ""[plentiful appointment]""
+2023-09-29 09:00AM-04:00PM ""[plentiful appointment]""
+2023-09-30 10:00AM-02:00PM ""[plentiful appointment]""
+2023-10-02 10:00AM-01:00PM ""[plentiful appointment]""
+2023-10-02 02:00PM-04:00PM ""[plentiful appointment]""
+2023-10-04 10:00AM-01:00PM ""[plentiful appointment]""
+2023-10-04 02:00PM-04:00PM ""[plentiful appointment]""
+2023-10-06 09:00AM-04:00PM ""[plentiful appointment]""
+2023-10-07 10:00AM-02:00PM ""[plentiful appointment]""
+2023-10-09 10:00AM-01:00PM ""[plentiful appointment]""
+2023-10-09 02:00PM-04:00PM ""[plentiful appointment]""",40.6422446,-73.9017884,- Kosher and Halal food is only available sometimes,Brooklyn,POINT (-73.9017884 40.6422446),,,,,,,,,,,,,,,
+505,b969faa2-88aa-4b60-90e9-7879c75fc500,Heavenly Vision Christian Center,2868 Jerome Ave,Tu 09:00AM-10:30 AM,Tu 09:00AM-10:30AM,,40.8714855,-73.8921194,"- ID preferred but not required  
+- Open to everyone
+- Kosher and Halal food available occasionally",Bronx,POINT (-73.8921194 40.8714855),,,,,,,,,,,,,,,
+783,ebce1788-1df5-46c2-a024-9c26ae00c8cc,"Christ Disciples International Ministries, Inc",3031 Webster Ave,"Mo,We 4:00PM","Mo,We 4:00PM-5:00PM",,40.8698639,-73.8795745,"-  Food available by appointment only. Call (718) 994-5422.
+- First-time clients should arrive at 4PM on Monday or Wednesday to register, receive food, and be added to the schedule.",Bronx,POINT (-73.8795745 40.8698639),,,,,,,,,,,,,,,
+770,10cb9b20-f632-4ce2-9c68-cd6d66ff2a08,University Community Social Services - Soup Kitchen,137 E 2nd St,Sa 08:00AM–02:30PM,Sa 08:00AM-02:30PM,,40.7230138,-73.9863775,"- ""Grab and Go"" meals
+- Breakfast includes fresh eggs, turkey ham, cheddar cheese, yogurt, granola, oatmeal, pastries, coffee, tea, and fruit.
+- Lunch includes meatloaf served with a salad, side dish, fruit, and dessert! Seasonal garden to table produce
+- indoor seating has been suspended until further notice.",Manhattan,POINT (-73.9863775 40.7230138),,,,,,,,,,,,,,,
+539,e4c54cdc-677e-435a-abf4-1379ca7b3767,Bushwick United Seniors,1139 Bushwick Ave,We 12:00PM,We 12:00PM-01:00PM,,40.6367488,-73.9454518,"- Halal chicken option available base on food shipments received
+- Food donations:
+    - canned goods, non-perishables
+- Open to the general public
+- Starts at 12pm and closes until all food is distributed.",Brooklyn,POINT (-73.9454518 40.6367488),,,,,,,,,,,,,,,
+545,1354bcfc-c788-431c-8ff3-5e20722e8e6c,"St. Matthew's, St. Timothy's Day Care - Soup Kitchen",26 W 84th St,"Su 02:00PM ""From October through June""","Su 02:00PM-3:00PM ""From October through June""",,40.7843278,-73.9717539,"- Grab-n-go hot meals; pickup outside 
+- Vegetarian meal option available",Manhattan,POINT (-73.9717539 40.7843278),,,"""From October through June""",,,,,,,,,,,,
+547,e0303480-ba2f-4477-a3f3-20bd41052772,National Council of Jewish Women - Community Kitchen,241 W 72nd St,"We 04:30PM
+Su 11:30AM","We 04:30PM-5:30PM
+Su 11:30AM-12:30PM",,40.7794675,-73.9830259,"- Grab-and-go pre-packed bags
+- Dine-in available",Manhattan,POINT (-73.9830259 40.7794675),,,,,,,,,,,,,,,
+648,38a6cf6a-3a63-4884-a63e-9b40eb02ea8a,Momentum Project Boom! Health Center - Soup Kitchen,226 E 144th St,Mon 12:00PM-01:00PM,"Mo 12:00PM-01:00PM
+",,40.8156186,-73.925557,"- First come first serve
+- Anyone that is in need",Bronx,POINT (-73.925557 40.8156186),,,,,,,,,,,,,,,
+589,3b76471d-131f-436c-8528-91bfc3a36111,Hanson Place SDA Church Community Services - Food Pantry,88 Hanson Place,"Th 3:00PM
+Su 4:00PM","Th 3:00PM-4:00PM
+Su 4:00PM-5:00PM
+",,40.6848036,-73.9743481,"- Food is prepacked for distribution
+- Food donations: only canned good are accepted 
+- Bring a bag/cart
+- Food is distributed across the street at 150 South Portland Ave",Brooklyn,POINT (-73.9743481 40.6848036),,,,,,,,,,,,,,,
+767,427a29fd-91b5-4e96-a268-b47899b92fa0,"Muslim Ummah of North America (MUNA), Center of South Jamaica",164-38 108th Ave,Mo 08:00AM,Mo 08:00AM-9:00AM,,40.69748823,-73.78904786,- 2 weeks a month on Monday  open for 4hrs,Queens,POINT (-73.78904786 40.69748823),,,,,,,,,,,,,,,
+772,ad910865-8865-42b8-9fd2-af81ad504fdd,"La Jornada, Brigada de Esperanza",89-07 Astoria Blvd,Sa 12:00PM,Sa 12:00PM-1:00PM,,40.76496239,-73.87988788,.,Queens,POINT (-73.87988788 40.76496239),,,,,,,,,,,,,,,
+1104,d02b9c13-fa39-4271-82fa-2e0aa1c77a9e,Grand Street Settlement - Lower East Side,80 Pitt St,"mo,tu,we,th,fri 07:00AM–08:00PM","mo,tu,we,th,fri 07:00AM-08:00PM",,40.7183039,-73.9817841,,Manhattan,POINT (-73.9817841 40.7183039),,,,,,,,,,,,,,,
+874,8c3d1a6f-2694-4b89-a1fa-a990b1db9c2d,"Catholic Charities Brooklyn and Queens, St. Gregory the Great",244 Brooklyn Ave,"Every other week and 4/6, 4/20, 5/4, 5/18 : 12:00 PM - 1:00 PM","Every other week and 4/6, 4/20, 5/4, 5/18 : 12:00PM-1:00PM",,40.6718541,-73.944888,,Brooklyn,POINT (-73.944888 40.6718541),,,,,,,,,,,,,,,
+946,ebb39b6c-4de2-4796-9a39-b0edbe23f9b4,Southern Baptist Church,12 W 108th St,Tu-Su 09:00AM- 05:00PM,"Tu,We,Th,Fr,Sa,Su 09:00AM-05:00PM",,40.7995462,-73.9601139,,Manhattan,POINT (-73.9601139 40.7995462),,,,,,,,,,,,,,,
+1062,c5743843-df72-4420-858e-d4e4976f760e,St. Paul's Evangelical Lutheran Church,1891 McGraw Ave,"2023-07-14 08:00AM-10:00AM
+2023-07-21 08:00AM-10:00AM
+2023-07-28 08:00AM-10:00AM
+2023-08-04 08:00AM-10:00AM
+2023-08-11 08:00AM-10:00AM
+2023-08-18 08:00AM-10:00AM
+2023-08-25 08:00AM-10:00AM
+2023-09-01 08:00AM-10:00AM
+2023-09-08 08:00AM-10:00AM
+2023-09-15 08:00AM-10:00AM
+2023-09-22 08:00AM-10:00AM
+2023-09-29 08:00AM-10:00AM
+2023-10-06 08:00AM-10:00AM",Fr 8:00AM-10:00PM,"2023-07-14 08:00AM-10:00AM
+2023-07-21 08:00AM-10:00AM
+2023-07-28 08:00AM-10:00AM
+2023-08-04 08:00AM-10:00AM
+2023-08-11 08:00AM-10:00AM
+2023-08-18 08:00AM-10:00AM
+2023-08-25 08:00AM-10:00AM
+2023-09-01 08:00AM-10:00AM
+2023-09-08 08:00AM-10:00AM
+2023-09-15 08:00AM-10:00AM
+2023-09-22 08:00AM-10:00AM
+2023-09-29 08:00AM-10:00AM
+2023-10-06 08:00AM-10:00AM",40.8346442,-73.8623515,,Bronx,POINT (-73.8623515 40.8346442),,,,,,,,,,,,,,,
+1073,6568870c-e965-4434-9dee-169d7f22fa5a,"Catholic Charities Brooklyn and Queens, St. Charles Borromeo Church - Food Pantry",19 Sidney Pl,"2023-07-20 08:30AM-01:00PM
+2023-07-27 08:30AM-01:00PM
+2023-08-03 08:30AM-01:00PM
+2023-08-10 08:30AM-01:00PM
+2023-08-17 08:30AM-01:00PM
+2023-08-24 08:30AM-01:00PM
+2023-08-31 08:30AM-01:00PM
+2023-09-07 08:30AM-01:00PM
+2023-09-14 08:30AM-01:00PM
+2023-09-21 08:30AM-01:00PM
+2023-09-28 08:30AM-01:00PM
+2023-10-05 08:30AM-01:00PM",Th 08:30AM-9:30AM,"2023-07-20 08:30AM-01:00PM
+2023-07-27 08:30AM-01:00PM
+2023-08-03 08:30AM-01:00PM
+2023-08-10 08:30AM-01:00PM
+2023-08-17 08:30AM-01:00PM
+2023-08-24 08:30AM-01:00PM
+2023-08-31 08:30AM-01:00PM
+2023-09-07 08:30AM-01:00PM
+2023-09-14 08:30AM-01:00PM
+2023-09-21 08:30AM-01:00PM
+2023-09-28 08:30AM-01:00PM
+2023-10-05 08:30AM-01:00PM",40.6928261,-73.9917738,,Brooklyn,POINT (-73.9917738 40.6928261),,,,,,,,,,,,,,,
+1149,cfdea33a-5d79-4beb-8cbb-2c8e96a5462b,"La Jornada, Somos Bendecidos para Bendecir",37-20 111th St,Tu 09:00AM,Tu 09:00AM-10:00AM,,40.75398782,-73.8572907,,Queens,POINT (-73.8572907 40.75398782),,,,,,,,,,,,,,,
+1194,0a89964c-eed1-425d-97d9-7d251c834192,"ICNA Relief, Bronx",1965 Edenwald Ave,Sa 09:00AM,Sa 09:00AM-10:00AM,,40.89321982,-73.84387964,,Bronx,POINT (-73.84387964 40.89321982),,,,,,,,,,,,,,,
+1196,cc9642b3-a73c-40b1-ab35-34dd4e2e7c7f,First Reformed Church of College Point,118-17 14th Ave,Th 09:00AM,Th 09:00AM-10:00AM,,40.78628824,-73.84931886,,Queens,POINT (-73.84931886 40.78628824),,,,,,,,,,,,,,,
