@@ -16,7 +16,7 @@ ___
 
 How to navigate the code:
 
-1) Generate the data by running all notbooks that start with TT_ and the 1D_ notebooks (these are the baseline scenarios, only necessary to run if you want to compare).
+1) Generate the data by running all notbooks that start with TT_ and the 1D_(these are the baseline scenarios, only necessary to run if you want to compare) notebooks .
 2) Run the processed_tt_csv_generator.ipynb to create EFAI index output csv.
 
 Note: to run this for a different city, adjust the data inputs before step 1.
