@@ -1,6 +1,6 @@
 # **Emergency-Food-Access-Index**
 
-Source code and data repository for "A multi-dimensional access index: Exploring emergency food assistance in New York City" (https://lnkd.in/eE4CBhRQ). Our paper proposes an open-source, reproducible framework to evaluate emergency food access. We provide the code and data with the goal of others being able to apply the provided framework to different geographies and domains. The repo contains the anonymized NYC food pantry data and the simulated travel time data, as well as all the code used to simulate and construct our proposed Emergency Food Access Index. 
+Source code and data repository for "A multi-dimensional access index: Exploring emergency food assistance in New York City" (https://doi.org/10.1016/j.healthplace.2024.103319). Our paper proposes an open-source, reproducible framework to evaluate emergency food access. We provide the code and data with the goal of others being able to apply the provided framework to different geographies and domains. The repo contains the anonymized NYC food pantry data and the simulated travel time data, as well as all the code used to simulate and construct our proposed Emergency Food Access Index. 
 
 ### Project Team
 
