@@ -14,5 +14,14 @@ More than one in ten New Yorkers are food insecure and fifty percent live below 
 
 ___
 
+How to navigate the code:
+
+1) Generate the data by running all notbooks that start with TT_ and the 1D_ notebooks (these are the baseline scenarios, only necessary to run if you want to compare).
+2) Run the processed_tt_csv_generator.ipynb to create EFAI index output csv.
+
+Note: to run this for a different city, adjust the data inputs before step 1.
+
+___
+
 Please cite the following, if using the data in published work:
 Clark, C., Perfit, C., & Reznickova, A. (2024). A multi-dimensional access index: Exploring emergency food assistance in New York City. Health & Place, 89, 103319.
